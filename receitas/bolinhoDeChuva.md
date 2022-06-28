@@ -5,4 +5,5 @@
 #### Ingredientes
 
  - 2 ovos;
- - 1 xícara (das de chá) de leite.
+ - 1 xícara (das de chá) de leite;
+ - 3 colheres (das de sopa) de açucar.
