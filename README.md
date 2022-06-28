@@ -1,5 +1,6 @@
-# Livro de Receitas
+# Repositório de práticas de bootcamp fulltack
 
-Olá, Bem vindo ao meu livro de receitas
 
- - Bolinho de chuva.
+**Arquivo atualizado conforme progressão no decorrer do curso. Contendo os arquivos básicos e com as modificações que eu acreditar serem interessantes**
+
+ - Git e GitHub (Pasta: receitas || Aprendizado: uso e conexão Git e GitHub, SSH, ciclo de vida, primeiros comandos).
