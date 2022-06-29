@@ -1,7 +1,7 @@
-## Repositório de práticas de bootcamp fulltack
+##_Repositório de práticas de bootcamp fulltack
 
 
-**Arquivo atualizado conforme progressão no decorrer do curso. Contendo os arquivos básicos e com as modificações que eu acreditar serem interessantes**
+#### **Arquivo atualizado conforme progressão no decorrer do curso. Contendo os arquivos básicos e com as modificações que eu acreditar serem interessantes**
 
 
  - Pensamento computacional e lógica de programação;
