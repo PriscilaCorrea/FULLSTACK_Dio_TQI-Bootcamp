@@ -1,1 +1,1 @@
-vai sal ao invés de açucar.
+vai uma colher (das de chá) de sal ao invés de açucar.
