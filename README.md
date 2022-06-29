@@ -5,4 +5,4 @@
 
 
  - Pensamento computacional e lógica de programação;
- - Git e GitHub (Pasta: receitas || Aprendizado: uso e conexão Git e GitHub, SSH, ciclo de vida, primeiros comandos).
+ - Git e GitHub (Pasta: receitas || Aprendizado: uso e conexão Git e GitHub, SSH, ciclo de vida, primeiros comandos, formatação com markdown, etc).
