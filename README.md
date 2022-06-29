@@ -1,4 +1,3 @@
-
 ## Repositório de práticas de bootcamp fulltack
 
 
@@ -7,5 +6,3 @@
 
  - Pensamento computacional e lógica de programação;
  - Git e GitHub (Pasta: receitas || Aprendizado: uso e conexão Git e GitHub, SSH, ciclo de vida, primeiros comandos).
-
-21:15
