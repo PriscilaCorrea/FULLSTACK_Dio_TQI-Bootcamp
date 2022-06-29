@@ -1,5 +1,4 @@
-<p style="text-align:center"> _Repositório de práticas do bootcamp fullstack </p>
-
+## _Repositório de práticas do bootcamp *fullstack*
 
 #### **Arquivo atualizado conforme progressão no decorrer do curso. Contendo os arquivos básicos e com as modificações que eu acreditar serem interessantes**
 
