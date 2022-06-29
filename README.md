@@ -1,4 +1,4 @@
-<center> ## _Repositório de práticas do bootcamp fullstack &darr </center>
+<p style="text-align:center"> ## _Repositório de práticas do bootcamp fullstack </p>
 
 
 #### **Arquivo atualizado conforme progressão no decorrer do curso. Contendo os arquivos básicos e com as modificações que eu acreditar serem interessantes**
