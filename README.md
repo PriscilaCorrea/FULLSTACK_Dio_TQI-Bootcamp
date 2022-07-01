@@ -4,10 +4,12 @@
 
 
  - Pensamento computacional e lógica de programação;
- - Git e GitHub (Pasta: receitas || Aprendizado: uso e conexão Git e GitHub, SSH, ciclo de vida, primeiros comandos, formatação com markdown, etc).
+ - Git e GitHub (Pasta: receitas || Aprendizado: uso e conexão Git e GitHub, SSH, ciclo de vida, primeiros comandos, formatação com markdown, etc);
+ - HTML5 e CSS3.
 
 
 ### Links para estudo aprofundado nos temas do curso
 
  - PORTUGOL, ferramenta online: https://portugol-webstudio.cubos.io/
  - HTML, CSS, JavaScript, + : https://www.w3schools.com/
+ - Texto auxiliar para preencher páginas: https://br.lipsum.com/ || https://loremipsum.io/
