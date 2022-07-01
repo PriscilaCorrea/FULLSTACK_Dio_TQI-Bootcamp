@@ -1,6 +1,6 @@
 # Bolinho de Chuva
 
-### ** Receita doce e massa frita **
+### ** Receita salgada e massa frita **
 
 #### INGREDIENTES
 
