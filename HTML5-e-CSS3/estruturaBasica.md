@@ -21,6 +21,15 @@
 	  </header>
 	  </article>
 	</seaction>
-	<footer></footer>
+	<footer>
+	 <ul>
+		 <li>
+			 <a href="mailto:priscila.correa@outlook.com">Email de contato: priscila.correa@outlook.com </a>
+		 </li>
+		 <li>
+			 <a href="https://www.linkedin.com/in/priscila-correa-bs/" target="_blank"> Perfil no LinkedIn </a>
+		 </li>
+	 </ul>
+	</footer>
  </body>
 </html>
