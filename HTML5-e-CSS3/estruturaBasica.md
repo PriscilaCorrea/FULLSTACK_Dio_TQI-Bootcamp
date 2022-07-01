@@ -6,6 +6,7 @@
  </head>
  <body>
 	<header>
+		<img src= "https://a.deviantart.net/avatars/a/m/amaranth18.gif?4">
 	<h1>Priscila Corrêa</h1>
 	</header>
 	<seaction>
