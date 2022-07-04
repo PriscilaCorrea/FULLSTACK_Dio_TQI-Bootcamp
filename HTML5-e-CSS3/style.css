@@ -1,6 +1,8 @@
 body {
     background: #ffffff;
     font-family: Verdana;
+    margin: auto;
+    max-width: 900px;
 }
 
 #title,
@@ -19,6 +21,16 @@ a {
     color: #660536;
 }
 
+.contact_list {
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    color: blue;
+    text-decoration: none;
+}
+
 .post {
     background: #f7e7f7;
     border: 1px double #21063b;
@@ -29,13 +41,14 @@ a {
 }
 
 .post_content {
-    margin: 0;
+    margin: 5px;
     margin-bottom: 15px;
-    text-transform: capitalize;
+    text-align: justify;
 }
 
 .post_image {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .post_title {

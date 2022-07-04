@@ -7,7 +7,7 @@
  </head>
  <body>
 	<header>
-		<img src= "https://a.deviantart.net/avatars/a/m/amaranth18.gif?4" alt="figura animada de um fastasma amigável">
+		<img src= "https://a.deviantart.net/avatars/a/m/amaranth18.gif?4" alt="figura animada de um fastasma amigável" >
 	<h1 id="title">Priscila Corrêa</h1>
 	</header>
 	<seaction>
@@ -23,7 +23,7 @@
 	  </article>
 	</seaction>
 	<footer>
-	 <ul>
+	 <ul class="contact_list">
 		 <li>
 			 <a href="mailto:priscila.correa@outlook.com">Email de contato: priscila.correa@outlook.com </a>
 		 </li>
