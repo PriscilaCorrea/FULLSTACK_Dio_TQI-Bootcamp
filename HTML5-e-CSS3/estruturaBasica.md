@@ -10,11 +10,11 @@
 		<img src= "https://a.deviantart.net/avatars/a/m/amaranth18.gif?4" alt="figura animada de um fastasma amigável">
 	<h1 id="title">Priscila Corrêa</h1>
 	</header>
-	<seaction class="post">
+	<seaction>
 	  <header>
 	   <h2 class="subtitle">Posts</h2>
 	  </header>
-	  <article>
+	  <article class="post">
 	  <header>
 	  <h3 class="post_title">Post #1</h3>
 	  <img src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c5f4fb4-7f1c-4578-ad72-cb454a4edd54/d4gqe3j-8a045e44-d827-4477-b577-189cd15bd463.png/v1/fill/w_900,h_675,q_75,strp/lorem_ipsum_shadow_art_by_absol_fimbulvetr-d4gqe3j.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wYzVmNGZiNC03ZjFjLTQ1NzgtYWQ3Mi1jYjQ1NGE0ZWRkNTQvZDRncWUzai04YTA0NWU0NC1kODI3LTQ0NzctYjU3Ny0xODljZDE1YmQ0NjMucG5nIiwid2lkdGgiOiI8PTkwMCIsImhlaWdodCI6Ijw9Njc1In1dXX0.MEkr3YTXOenrKFFirmEkh_DiL4tUIQHZV3zTXtVcNC0" alt="lorem ipsum">
