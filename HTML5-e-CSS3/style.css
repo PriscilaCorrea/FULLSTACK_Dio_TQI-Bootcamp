@@ -1,26 +1,28 @@
 body {
-    background: #e6eeec;
+    background: #ffffff;
+    font-family: Verdana;
 }
 
 #title,
 .subtitle,
 .post_title {
-    color: #99004d;
+    color: #660536;
 }
 
-.post_title {
-    font-size: 16px;
-    font-style: italic;
-    margin: 0;
-    margin-bottom: 15px;
-    margin-top: 15px;
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: line-through;
+    color: #660536;
 }
 
 .post {
-    background: #cfa2c2;
-    border: 1px solid #b182e0;
-    border-radius: 15px;
-    border-top-style: 2px double;
+    background: #f7e7f7;
+    border: 1px double #21063b;
+    border-radius: 5px;
     margin: 0;
     margin-bottom: 15px;
     margin-top: 20px;
@@ -29,9 +31,17 @@ body {
 .post_content {
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
 }
 
 .post_image {
-    margin=0;
-    margin-bottom=50px;
+    margin-bottom: 15px;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-top: 15px;
 }
