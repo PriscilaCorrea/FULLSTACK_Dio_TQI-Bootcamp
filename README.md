@@ -12,5 +12,6 @@
 
  - PORTUGOL, ferramenta online: https://portugol-webstudio.cubos.io/
  - HTML, CSS, JavaScript, + : https://www.w3schools.com/
+ - CSS Transition: https://www.w3schools.com/css/css3_transitions.asp
  - Texto auxiliar para preencher páginas: https://br.lipsum.com/ || https://loremipsum.io/
  - Mozila - Documentação de tecnologias *web* para desenvolvedores: https://developer.mozilla.org/en-US/
