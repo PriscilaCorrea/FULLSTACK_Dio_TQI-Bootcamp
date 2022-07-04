@@ -22,9 +22,11 @@ body {
     border-top-style: 2px double;
     margin: 0;
     margin-bottom: 15px;
+    margin-top: 20px;
 }
 
 .post_content {
+    background-color: green;
     margin: 0;
     margin-bottom: 15px;
 }
