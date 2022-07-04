@@ -1,20 +1,21 @@
-body{
-  background: #ebebe0;
+body {
+    background: red;
 }
 
-
-#title, .subtitle, .post_title{
-  color: blue;
+#title,
+.subtitle,
+.post_title {
+    color: blue;
 }
 
-.post_title{
-  font-size: 16px;
-  font-style: italic;
+.post_title {
+    font-size: 16px;
+    font-style: italic;
 }
 
-.post{
-  background: white;
-  padding: 10px;
-  border: 3px solid black;
-  margin: 10px;
+.post {
+    background: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
 }
