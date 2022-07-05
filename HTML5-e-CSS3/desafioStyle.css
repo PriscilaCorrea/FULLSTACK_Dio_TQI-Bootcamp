@@ -15,7 +15,7 @@ body {
 .card {
     height: 400px;
     width: 500px;
-    background-image: url('./lua.jpg');
+    background-image: url('./images/santos.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
