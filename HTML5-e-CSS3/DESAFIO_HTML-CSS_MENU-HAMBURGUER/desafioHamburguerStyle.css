@@ -5,7 +5,7 @@
 }
 
 .wrapper {
-    background-color: rgb(221, 161, 171);
+    background-color: rgb(238, 162, 200);
     width: 100%;
     height: 100vh;
     display: flex;
@@ -56,15 +56,13 @@
 }
 
 #toggle:checked+.checkbox .trace:nth-child(2) {
-    transform: rotate();
-    width: 30px;
-    visibility: hidden;
-    opacity: 10;
-}
-
-#toggle:checked+.checkbox .trace:nth-child(3) {
     transform: translateX(-100px);
     width: 30px;
     visibility: hidden;
-    opacity: 10;
+    opacity: 0;
+}
+
+#toggle:checked+.checkbox .trace:nth-child(3) {
+    transform: rotate(-45deg);
+    top: 47px;
 }
