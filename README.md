@@ -16,3 +16,5 @@
  - Texto auxiliar para preencher páginas: https://br.lipsum.com/ || https://loremipsum.io/
  - Mozila - Documentação de tecnologias *web* para desenvolvedores: https://developer.mozilla.org/en-US/
  - Primeiros passos com o Git (no GitHub): https://docs.github.com/pt/get-started/getting-started-with-git
+ - 10+ Hamburger Menu Examples [CSS Only]: https://alvarotrigo.com/blog/hamburger-menu-css/
+ - Google Fonts: https://fonts.google.com/
