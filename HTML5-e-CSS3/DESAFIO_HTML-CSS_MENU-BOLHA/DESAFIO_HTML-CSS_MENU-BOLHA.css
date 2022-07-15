@@ -5,24 +5,24 @@
 body {
     margin: 0;
     padding: 0;
-    color: #fffff0;
+    color: #ffffff;
     font-family: 'Rajdhani', sans-serif;
 }
 
 
-/*HEADER*/
+/* Header */
 
 .header-wrapper {
     height: 100vh;
-    width: 100%;
-    background: linear-gradient(-45deg, #b85b86, #07b641, #b34a4f, #04e2ff);
+    width: 100vw;
+    background: linear-gradient(-45deg, #012a6d, #6142aa, #641888, #b1428c);
     background-size: 400% 400%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: relative;
     animation: backgroundTransition 8s ease-in-out infinite;
+    position: relative;
 }
 
 h1 {
@@ -54,11 +54,11 @@ h2 {
 }
 
 a:hover {
-    color: #1e0025;
-    background-color: #d8e9ec;
+    color: #2E1C2B;
+    background-color: #ffffff;
 }
 
-@keyframes backgroundTransiton {
+@keyframes backgroundTransition {
     0% {
         background-position: 0% 80%;
     }
@@ -71,7 +71,7 @@ a:hover {
 }
 
 
-/*MENU HAMBURGUER*/
+/* Menu Hambuerguer */
 
 .checkbox-container {
     display: flex;
@@ -95,7 +95,7 @@ a:hover {
 .checkbox .trace {
     width: 50px;
     height: 2px;
-    background-color: #ffffff;
+    background-color: white;
     position: absolute;
     border-radius: 4px;
     transition: 0.5s ease-in-out;
@@ -121,7 +121,7 @@ a:hover {
 }
 
 
-/*MENU*/
+/* Menu */
 
 .menu {
     position: absolute;
@@ -131,12 +131,12 @@ a:hover {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    box-shadow: 0px 0px 0px 0px #ffffff;
+    box-shadow: 0px 0px 0px 0px white;
     z-index: -1;
     transition: 400ms ease-in-out 0s;
 }
 
-.menu-itens {
+.menu-items {
     position: fixed;
     top: 0;
     left: 0;
@@ -151,13 +151,13 @@ a:hover {
     transition: 400ms ease-in-out 0s;
 }
 
-.menu-itens ul {
+.menu-items ul {
     list-style-type: none;
 }
 
-.menu-itens ul li a {
+.menu-items ul li a {
     margin: 10px 0;
-    color: #15011a;
+    color: #300135;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -165,11 +165,11 @@ a:hover {
 }
 
 
-/*ANIMAÇÃO DO MENU*/
+/* ANIMAÇÃO DO MENU */
 
 #toggle:checked+.checkbox .trace:nth-child(1) {
     transform: rotate(45deg);
-    background-color: #1e0025;
+    background-color: #2E1C2B;
     top: 47px;
 }
 
@@ -182,7 +182,7 @@ a:hover {
 
 #toggle:checked+.checkbox .trace:nth-child(3) {
     transform: rotate(-45deg);
-    background-color: #1e0025;
+    background-color: #2E1C2B;
     top: 48px;
 }
 
@@ -190,12 +190,12 @@ a:hover {
     background-color: white;
 }
 
-#toggle:checked+.menu {
+#toggle:checked~.menu {
     box-shadow: 0px 0px 0px 100vmax white;
     z-index: 1;
 }
 
-#toggle:checked+.menu-itens {
+#toggle:checked~.menu-items {
     visibility: visible;
     opacity: 1;
 }
