@@ -2,7 +2,7 @@
     body {
         margin: 0;
         padding: 0;
-        color: #f4f4f8;
+        color: #fff6fd;
         font-family: 'Rajdhani', sans-serif;
     }
     /* Header */
@@ -10,7 +10,7 @@
     .header-wrapper {
         height: 100vh;
         width: 100vw;
-        background: linear-gradient(-45deg, #213556, #265069, #6A67CE, #66cac5);
+        background: linear-gradient(-45deg, #023fa1, #5f47e6, #8906c5, #e038f0);
         background-size: 400% 400%;
         display: flex;
         flex-direction: column;
@@ -49,8 +49,8 @@
     }
     
     a:hover {
-        color: #2E1C2B;
-        background-color: #a9a7e0;
+        color: #310231;
+        background-color: #f3e9f2;
     }
     
     @keyframes backgroundTransition {
@@ -64,7 +64,7 @@
             background-position: 0% 90%;
         }
     }
-    /* Menu Hambuerguer */
+    /* Menu Hamburguer */
     
     .checkbox-container {
         display: flex;
@@ -148,7 +148,7 @@
     
     .menu-items ul li a {
         margin: 10px 0;
-        color: #2E1C2B;
+        color: #300131;
         text-decoration: none;
         text-transform: uppercase;
         letter-spacing: 4px;
@@ -158,7 +158,7 @@
     
     #toggle:checked+.checkbox .trace:nth-child(1) {
         transform: rotate(45deg);
-        background-color: #2E1C2B;
+        background-color: #300131;
         top: 47px;
     }
     
@@ -171,7 +171,7 @@
     
     #toggle:checked+.checkbox .trace:nth-child(3) {
         transform: rotate(-45deg);
-        background-color: #2E1C2B;
+        background-color: #5e4a61;
         top: 48px;
     }
     
@@ -298,7 +298,7 @@
     .footer {
         width: 100vw;
         height: 50px;
-        background-color: #265069;
+        background-color: #5a4261;
         display: flex;
         justify-content: center;
         align-items: center;
