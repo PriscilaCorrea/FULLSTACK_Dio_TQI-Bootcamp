@@ -10,7 +10,7 @@
     .header-wrapper {
         height: 100vh;
         width: 100vw;
-        background: linear-gradient(-45deg, #023fa1, #5f47e6, #8906c5, #e038f0);
+        background: linear-gradient(-45deg, #023fa1, #b447e6, #42a6d4, #e038f0);
         background-size: 400% 400%;
         display: flex;
         flex-direction: column;
@@ -211,7 +211,7 @@
         height: 300px;
         width: 400px;
         margin: 3rem 0;
-        background-image: url('/assets/stop.jpg');
+        background-image: url('images/azaleias-1.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
