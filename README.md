@@ -5,7 +5,9 @@
 ### Conteúdo visto:
  - Pensamento computacional e lógica de programação;
  - Git e GitHub (Pasta: receitas || Aprendizado: uso e conexão Git e GitHub, SSH, ciclo de vida, primeiros comandos, formatação com markdown, etc);
- - HTML5 e CSS3 (Pasta: HTML5-e-CSS3 || Estrutura básica, efeito *morfing* com CSS e menu hamburguer).
+ - HTML5 e CSS3 (Pasta: HTML5-e-CSS3 || Estrutura básica, efeito *morfing* com CSS, Menus Hamburguer e Bolha).
+ - VS Code: Instalação, configuração, personalização e conexão com Git.
+ - JavaScript: introdução e evolução.
 
 
 ### Links para estudo aprofundado nos temas do curso:
@@ -18,3 +20,4 @@
  - Primeiros passos com o Git (no GitHub): https://docs.github.com/pt/get-started/getting-started-with-git
  - 10+ Hamburger Menu Examples [CSS Only]: https://alvarotrigo.com/blog/hamburger-menu-css/
  - Google Fonts: https://fonts.google.com/
+ - JavaScript: https://www.javascript.com/ || https://www.pluralsight.com/offer/free-tech-skills
