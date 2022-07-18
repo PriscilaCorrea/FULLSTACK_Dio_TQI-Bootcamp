@@ -16,10 +16,8 @@
 
  - HTML, CSS, JavaScript, + : https://www.w3schools.com/
  - CSS Transition: https://www.w3schools.com/css/css3_transitions.asp
- - Texto auxiliar para preencher páginas: https://br.lipsum.com/ || https://loremipsum.io/
  - Mozila - Documentação de tecnologias *web* para desenvolvedores: https://developer.mozilla.org/en-US/
  - 10+ Hamburger Menu Examples [CSS Only]: https://alvarotrigo.com/blog/hamburger-menu-css/
- - Google Fonts: https://fonts.google.com/
 
 
 #### LÓGICA
@@ -29,7 +27,10 @@
 
 #### JAVASCRIPT
 
- - JavaScript: https://www.javascript.com/ || https://www.pluralsight.com/offer/free-tech-skills 
+ - JavaScript: https://www.javascript.com/
+ -- https://www.pluralsight.com/offer/free-tech-skills 
+ -- O que é JavaScript: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+ -- Sumário: https://developer.mozilla.org/pt-BR/docs/Glossary/JavaScript
 
 
 #### FÓRUNS
@@ -44,3 +45,5 @@
 
 #### PROGRAMAS E EXTENSÕES
  - NodeJS: https://nodejs.org/en/
+ - Texto auxiliar para preencher páginas: https://br.lipsum.com/ || https://loremipsum.io/
+ - Google Fonts: https://fonts.google.com/
