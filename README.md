@@ -12,15 +12,35 @@
 
 ### Links para estudo aprofundado nos temas do curso:
 
- - PORTUGOL, ferramenta online: https://portugol-webstudio.cubos.io/
+#### FORMATAÇÃO
+
  - HTML, CSS, JavaScript, + : https://www.w3schools.com/
  - CSS Transition: https://www.w3schools.com/css/css3_transitions.asp
  - Texto auxiliar para preencher páginas: https://br.lipsum.com/ || https://loremipsum.io/
  - Mozila - Documentação de tecnologias *web* para desenvolvedores: https://developer.mozilla.org/en-US/
- - Primeiros passos com o Git (no GitHub): https://docs.github.com/pt/get-started/getting-started-with-git
  - 10+ Hamburger Menu Examples [CSS Only]: https://alvarotrigo.com/blog/hamburger-menu-css/
  - Google Fonts: https://fonts.google.com/
- - JavaScript: https://www.javascript.com/ || https://www.pluralsight.com/offer/free-tech-skills 
- - NodeJS: https://nodejs.org/en/
 
- _
+
+#### LÓGICA
+
+ - PORTUGOL, ferramenta online: https://portugol-webstudio.cubos.io/
+
+
+#### JAVASCRIPT
+
+ - JavaScript: https://www.javascript.com/ || https://www.pluralsight.com/offer/free-tech-skills 
+
+
+#### FÓRUNS
+
+ - Stackoverflow: https://stackoverflow.com/
+
+
+#### VERSIONAMENTO DE CÓDIGO
+
+- Primeiros passos com o Git (no GitHub): https://docs.github.com/pt/get-started/getting-started-with-git
+
+
+#### PROGRAMAS E EXTENSÕES
+ - NodeJS: https://nodejs.org/en/

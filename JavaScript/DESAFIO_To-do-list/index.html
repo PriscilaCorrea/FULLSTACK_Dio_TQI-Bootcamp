@@ -13,14 +13,14 @@
         <h1>To do!</h1>
         <h3>Pequenas tarefas do dia a dia... Se esforce mas tenha carinho e paciência contigo &#10024; </h3>
     </header>
-    <!--Botões para adicionar linha de tarefa-->>
+    <!--Botões para adicionar linha de tarefa-->
     <div id="lista">
-        <button name="tirarLinha" onclick="decrement()">-</button>
-        <span id="currentNumber">0</span>
-        <button name="adicionar" onclick="increment()">+</button>
+        <form>
+            <input type="text" id="name" name="name" required minlength="2" maxlength="40" size="40">
+        </form>
+        <button onclick="insertOnList" id="button" name="enter" type="submit">Inserir</button>
+        <button onclick="clearTextBox" name="limpar" type="reset">Limpar</button>
     </div>
-    <!--Botões para adicionar linha de tarefa-->>
-
     <script src="assets/scripts.js"></script>
 </body>
 
