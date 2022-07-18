@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+* {
+    font-family: 'Edu VIC WA NT Beginner', sans-serif;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(208, 252, 150);
+}
+
+header {
+    background-color: rgb(244, 250, 237);
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
+    text-align: center;
+    color: rgb(37, 37, 37);
+}
+
+button {}
+
+#lista {
+    display: flex;
+}
