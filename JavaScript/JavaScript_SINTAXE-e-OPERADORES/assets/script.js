@@ -1,81 +1,58 @@
-//VARIÁVEIS
+//
+//
+//DECLARAÇÕES DE VARIÁVEIS E CONSTANTES
 
-//Aprendendo variáveis
 
-//BOOLEAN
-/* var v0uf = false;
-console.log(typeof(v0uf)); */
+//FUNÇÃO QUE RECEBE 2 NÚMEROS COMO PARÂMETROS
+function comparaNumeros(num1, num2) {
+    /*    const saoIguais = num1 === num2;
+        const soma = num1 + num2;
 
-/* //NUMBER
-var numeroQualquer = 1;
-console.log(typeof(numeroQualquer)); */
+         if (saoIguais) {
+            return "São iguais!";
+        }
 
-//STRING
-/* var nome = 'Priscila';
-console.log(typeof(nome)); */
+        return "Não são iguais"; 
 
-//FUNCTION
-/* var funcao = function() {};
-console.log(typeof(funcao)); */
+        //OU use o if ternário
 
-// como declarar
-/* var variavel = 'Priscila';
-variavel = 'Corrêa';
-console.log(variavel);
- */
-/* let variavel2 = 'qualquer';
-console.log(typeof(variavel2)); */
+        return saoIguais ? "São iguais" : "Não são iguais";*/
 
-//CONSTANTE
-// const constante = 'Priscila';
-// console.log(constante);
+    const primeiraFrase = criaPrimeiraFrase(num1, num2);
+    const segundaFrase = criaSegundaFrase(num1, num2);
 
-/* var escopoGlobal = 'global';
-console.log(escopoGlobal);
-
-function escopoLocal() {
-    let escopoLocalInterno = 'local';
-    console.log(escopoLocalInterno);
+    return '${primeiraFrase} ${segundaFrase}'
 }
 
-escopoLocal(); */
+function criaPrimeiraFrase(num1, num2) {
+    let saoIguais = '';
 
-//ATRIBUIÇÃO
-/* var atribuiao = 'Priscila'; */
+    if (num1 !== num2) {
+        saoIguais = 'Não';
+    }
 
-//COMPARAÇÃO
-/* var comparacao = '0' == 0;
-console.log(comparacao); */
+    return `Os números $(num1) e $(num2) ${saoIguais} são iguais.`
+}
 
-//OPERADORES LÓGICOS
-/* var adicao = 1 + 1;
-console.log(adicao); */
+function criaSegundaFrase(num1, num2) {
+    const soma = num1 + num2;
 
-//ESTRUTURAS CONDICIONAIS
-/* var jogador1 = 0;
-var jogador2 = 1;
-var placar;
+    let resultado10 = 'menor';
+    let resultado20 = 'menor';
 
-if (jogador1 != -1) {
-    if (jogador1 > 0) {
-        console.log('Jogador 1 marcou ponto!');
-    } else if (jogador2 > 0) {
-        console.log('Jogador 2 marcou ponto!');
-    } else { console.log('Ninguém marcou ponto') }
-} */
+    const compara10 = soma > 10;
+    const compara20 = soma > 20;
 
-//SWTCH CASE
-/* switch (placar) {
-    case placar = jogador1 > jogador2:
-        console.log('Jogador1 ganhou');
-        break;
-    case placar = jogador1 < jogador2:
-        console.log('Jogador 2 ganhou');
-        break;
-    default:
-        console.log('Ninguém ganhou');
-        break;
-} */
+    if (compara10) {
+        resultado10 = 'maior'
+    }
+    if (compara20) {
+        resultado20 = 'maior';
+    }
 
-//LAÇOS DE REPETIÇÃO
-/* let array = ['valor1', 'valor2', 'valor3', ''] */
+    return´ Sua soma é $ { soma }, que é $ { resultado10 }
+    que 10 e $ { resultado20 }
+    que 20. `
+}
+
+console.log(comparaNumeros)
