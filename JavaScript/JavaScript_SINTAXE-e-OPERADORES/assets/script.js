@@ -18,20 +18,21 @@ function comparaNumeros(num1, num2) {
 
         return saoIguais ? "São iguais" : "Não são iguais";*/
 
+    if (!num1 || !num2) return `Defina dois números!`;
     const primeiraFrase = criaPrimeiraFrase(num1, num2);
     const segundaFrase = criaSegundaFrase(num1, num2);
 
-    return '${primeiraFrase} ${segundaFrase}'
+    return `${primeiraFrase} ${segundaFrase}`
 }
 
 function criaPrimeiraFrase(num1, num2) {
     let saoIguais = '';
 
     if (num1 !== num2) {
-        saoIguais = 'Não';
+        saoIguais = 'não';
     }
 
-    return `Os números $(num1) e $(num2) ${saoIguais} são iguais.`
+    return `Os números ${num1} e ${num2} ${saoIguais} são iguais.`
 }
 
 function criaSegundaFrase(num1, num2) {
@@ -50,9 +51,7 @@ function criaSegundaFrase(num1, num2) {
         resultado20 = 'maior';
     }
 
-    return´ Sua soma é $ { soma }, que é $ { resultado10 }
-    que 10 e $ { resultado20 }
-    que 20. `
+    return `Sua soma é ${soma}, que é ${resultado10} que 10 e ${resultado20} que 20.`
 }
 
-console.log(comparaNumeros)
+console.log(comparaNumeros(11, a));
